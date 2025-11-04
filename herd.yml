@@ -1,0 +1,7 @@
+name: beasiswa_app
+php: '8.5'
+secured: true
+aliases: {  }
+services: {  }
+integrations:
+    forge: {  }
